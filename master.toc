@@ -1,13 +1,13 @@
 \select@language {brazilian}
 \contentsline {section}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{3}{section.1}
 \contentsline {section}{\numberline {2}Sonar}{4}{section.2}
-\contentsline {section}{\numberline {3}Notebooks}{8}{section.3}
-\contentsline {section}{\numberline {4}Sensor Indutivo}{9}{section.4}
-\contentsline {section}{\numberline {5}Encoder}{13}{section.5}
-\contentsline {section}{\numberline {6}Pan e Tilt}{16}{section.6}
-\contentsline {section}{\numberline {7}Tablet}{21}{section.7}
-\contentsline {section}{\numberline {8}Sensor de Press\IeC {\~a}o}{22}{section.8}
-\contentsline {section}{\numberline {A}Anexo I - Seaking Profiler}{23}{appendix.A}
-\contentsline {section}{\numberline {A}Anexo II - Sensor Indutivo}{26}{appendix.A}
-\contentsline {section}{\numberline {A}Anexo III - Encoder}{29}{appendix.A}
-\contentsline {section}{\numberline {A}Anexo IV - Pan e Tilt}{35}{appendix.A}
+\contentsline {section}{\numberline {3}Notebooks}{9}{section.3}
+\contentsline {section}{\numberline {4}Sensor Indutivo}{11}{section.4}
+\contentsline {section}{\numberline {5}Encoder}{15}{section.5}
+\contentsline {section}{\numberline {6}Pan e Tilt}{19}{section.6}
+\contentsline {section}{\numberline {7}Tablet}{24}{section.7}
+\contentsline {section}{\numberline {8}Sensor de Press\IeC {\~a}o}{26}{section.8}
+\contentsline {section}{\numberline {A}Anexo I - Seaking Profiler}{28}{appendix.A}
+\contentsline {section}{\numberline {A}Anexo II - Sensor Indutivo}{31}{appendix.A}
+\contentsline {section}{\numberline {A}Anexo III - Encoder}{34}{appendix.A}
+\contentsline {section}{\numberline {A}Anexo IV - Pan e Tilt}{40}{appendix.A}
