@@ -3,12 +3,12 @@
 \contentsline {section}{\numberline {2}Sonar}{4}{section.2}
 \contentsline {section}{\numberline {3}Notebooks}{9}{section.3}
 \contentsline {section}{\numberline {4}Sensor Indutivo}{12}{section.4}
-\contentsline {section}{\numberline {5}Encoder}{18}{section.5}
-\contentsline {section}{\numberline {6}Pan e Tilt}{23}{section.6}
-\contentsline {section}{\numberline {7}Tablet}{28}{section.7}
-\contentsline {section}{\numberline {8}Sensor de Press\IeC {\~a}o}{31}{section.8}
-\contentsline {section}{\numberline {A}Anexo I - Seaking Profiler}{35}{appendix.A}
-\contentsline {section}{\numberline {A}Anexo II - Sensor Indutivo}{38}{appendix.A}
-\contentsline {section}{\numberline {A}Anexo III - Encoder}{41}{appendix.A}
-\contentsline {section}{\numberline {A}Anexo IV - Pan e Tilt}{47}{appendix.A}
-\contentsline {section}{\numberline {A}Anexo V - Sensor de Press\IeC {\~a}o}{53}{appendix.A}
+\contentsline {section}{\numberline {5}Encoder}{17}{section.5}
+\contentsline {section}{\numberline {6}Pan e Tilt}{22}{section.6}
+\contentsline {section}{\numberline {7}Tablet}{27}{section.7}
+\contentsline {section}{\numberline {8}Sensor de Press\IeC {\~a}o}{30}{section.8}
+\contentsline {section}{\numberline {A}Anexo I - Seaking Profiler}{34}{appendix.A}
+\contentsline {section}{\numberline {A}Anexo II - Sensor Indutivo}{37}{appendix.A}
+\contentsline {section}{\numberline {A}Anexo III - Encoder}{40}{appendix.A}
+\contentsline {section}{\numberline {A}Anexo IV - Pan e Tilt}{46}{appendix.A}
+\contentsline {section}{\numberline {A}Anexo V - Sensor de Press\IeC {\~a}o}{52}{appendix.A}
