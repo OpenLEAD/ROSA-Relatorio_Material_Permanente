@@ -21,37 +21,37 @@
 \contentsline {subsection}{\numberline {5.4}Cota\IeC {\c c}\IeC {\~a}o Encoder 3 }{29}{subsection.5.4}
 \contentsline {subsection}{\numberline {5.5}Nota Fiscal}{31}{subsection.5.5}
 \contentsline {section}{\numberline {6}Pan e Tilt}{32}{section.6}
-\contentsline {subsection}{\numberline {6.1}Foto do Material}{33}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}Cota\IeC {\c c}\IeC {\~a}o Pan e Tilt 1 }{35}{subsection.6.2}
-\contentsline {subsection}{\numberline {6.3}Cota\IeC {\c c}\IeC {\~a}o Pan e Tilt 2 }{36}{subsection.6.3}
-\contentsline {subsection}{\numberline {6.4}Cota\IeC {\c c}\IeC {\~a}o Pan e Tilt 3 }{37}{subsection.6.4}
-\contentsline {subsection}{\numberline {6.5}Nota Fiscal}{38}{subsection.6.5}
-\contentsline {section}{\numberline {7}Tablet}{39}{section.7}
-\contentsline {subsection}{\numberline {7.1}Foto do Material}{40}{subsection.7.1}
-\contentsline {subsection}{\numberline {7.2}Nota Fiscal}{42}{subsection.7.2}
-\contentsline {section}{\numberline {8}Sensor de Press\IeC {\~a}o}{43}{section.8}
-\contentsline {subsection}{\numberline {8.1}Foto do Material}{44}{subsection.8.1}
-\contentsline {subsection}{\numberline {8.2}Cota\IeC {\c c}\IeC {\~a}o Sensor de press\IeC {\~a}o}{46}{subsection.8.2}
-\contentsline {subsection}{\numberline {8.3}Nota Fiscal}{48}{subsection.8.3}
-\contentsline {subsection}{\numberline {8.4}Nota Fiscal 2}{49}{subsection.8.4}
-\contentsline {section}{\numberline {9}PC104}{50}{section.9}
-\contentsline {subsection}{\numberline {9.1}Foto do Material}{51}{subsection.9.1}
-\contentsline {subsection}{\numberline {9.2}Nota Fiscal}{52}{subsection.9.2}
-\contentsline {section}{\numberline {10}Eletr\IeC {\^o}nica Embarcada}{53}{section.10}
-\contentsline {subsection}{\numberline {10.1}Foto do Material}{54}{subsection.10.1}
-\contentsline {subsection}{\numberline {10.2}Foto do Material 2}{55}{subsection.10.2}
-\contentsline {subsection}{\numberline {10.3}Nota Fiscal}{56}{subsection.10.3}
-\contentsline {section}{\numberline {11}Inclina\IeC {\c c}\IeC {\~a}o}{57}{section.11}
-\contentsline {subsection}{\numberline {11.1}Foto do Material}{58}{subsection.11.1}
-\contentsline {subsection}{\numberline {11.2}Nota Fiscal}{60}{subsection.11.2}
-\contentsline {subsection}{\numberline {11.3}Nota Fiscal 2}{61}{subsection.11.3}
-\contentsline {section}{\numberline {12}Wandercase}{62}{section.12}
-\contentsline {subsection}{\numberline {12.1}Foto do Material}{63}{subsection.12.1}
-\contentsline {subsection}{\numberline {12.2}Nota Fiscal}{65}{subsection.12.2}
-\contentsline {section}{\numberline {A}Anexo I - Seaking Profiler}{66}{appendix.A}
-\contentsline {section}{\numberline {A}Anexo II - Sensor Indutivo}{69}{appendix.A}
-\contentsline {section}{\numberline {A}Anexo III - Encoder}{72}{appendix.A}
-\contentsline {section}{\numberline {A}Anexo IV - Pan e Tilt}{78}{appendix.A}
-\contentsline {section}{\numberline {A}Anexo V - Sensor de Press\IeC {\~a}o}{84}{appendix.A}
-\contentsline {section}{\numberline {A}Anexo VI - PC104}{88}{appendix.A}
-\contentsline {section}{\numberline {A}Anexo VII - Sensor de Inclina\IeC {\c c}\IeC {\~a}o}{92}{appendix.A}
+\contentsline {subsection}{\numberline {6.1}Foto do Material}{34}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Cota\IeC {\c c}\IeC {\~a}o Pan e Tilt 1 }{36}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Cota\IeC {\c c}\IeC {\~a}o Pan e Tilt 2 }{37}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Cota\IeC {\c c}\IeC {\~a}o Pan e Tilt 3 }{38}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}Nota Fiscal}{39}{subsection.6.5}
+\contentsline {section}{\numberline {7}Tablet}{40}{section.7}
+\contentsline {subsection}{\numberline {7.1}Foto do Material}{41}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Nota Fiscal}{43}{subsection.7.2}
+\contentsline {section}{\numberline {8}Sensor de Press\IeC {\~a}o}{44}{section.8}
+\contentsline {subsection}{\numberline {8.1}Foto do Material}{45}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Cota\IeC {\c c}\IeC {\~a}o Sensor de press\IeC {\~a}o}{47}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}Nota Fiscal}{49}{subsection.8.3}
+\contentsline {subsection}{\numberline {8.4}Nota Fiscal 2}{50}{subsection.8.4}
+\contentsline {section}{\numberline {9}PC104}{51}{section.9}
+\contentsline {subsection}{\numberline {9.1}Foto do Material}{52}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}Nota Fiscal}{53}{subsection.9.2}
+\contentsline {section}{\numberline {10}Eletr\IeC {\^o}nica Embarcada}{54}{section.10}
+\contentsline {subsection}{\numberline {10.1}Foto do Material}{55}{subsection.10.1}
+\contentsline {subsection}{\numberline {10.2}Foto do Material 2}{56}{subsection.10.2}
+\contentsline {subsection}{\numberline {10.3}Nota Fiscal}{57}{subsection.10.3}
+\contentsline {section}{\numberline {11}Inclina\IeC {\c c}\IeC {\~a}o}{58}{section.11}
+\contentsline {subsection}{\numberline {11.1}Foto do Material}{59}{subsection.11.1}
+\contentsline {subsection}{\numberline {11.2}Nota Fiscal}{61}{subsection.11.2}
+\contentsline {subsection}{\numberline {11.3}Nota Fiscal 2}{62}{subsection.11.3}
+\contentsline {section}{\numberline {12}Wandercase}{63}{section.12}
+\contentsline {subsection}{\numberline {12.1}Foto do Material}{64}{subsection.12.1}
+\contentsline {subsection}{\numberline {12.2}Nota Fiscal}{66}{subsection.12.2}
+\contentsline {section}{\numberline {A}Anexo I - Seaking Profiler}{67}{appendix.A}
+\contentsline {section}{\numberline {A}Anexo II - Sensor Indutivo}{70}{appendix.A}
+\contentsline {section}{\numberline {A}Anexo III - Encoder}{73}{appendix.A}
+\contentsline {section}{\numberline {A}Anexo IV - Pan e Tilt}{79}{appendix.A}
+\contentsline {section}{\numberline {A}Anexo V - Sensor de Press\IeC {\~a}o}{85}{appendix.A}
+\contentsline {section}{\numberline {A}Anexo VI - PC104}{89}{appendix.A}
+\contentsline {section}{\numberline {A}Anexo VII - Sensor de Inclina\IeC {\c c}\IeC {\~a}o}{93}{appendix.A}

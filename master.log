@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.16)  30 JAN 2015 15:32
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.16)  6 FEB 2015 15:09
 entering extended mode
 **master.tex
 (C:\Users\Renan\git\OpenLEAD\ROSA-Relatorio_Material_Permanente\master.tex
@@ -1100,9 +1100,9 @@ LaTeX Font Info:    Try loading font information for TS1+ppl on input line 23.
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 )
 LaTeX Font Info:    Font shape `TS1/ppl/bx/n' in size <10.95> not available
-(Font)              Font shape `TS1/ppl/b/n' tried instead on input line 29.
+(Font)              Font shape `TS1/ppl/b/n' tried instead on input line 30.
 
-Overfull \hbox (63.18158pt too wide) in paragraph at lines 15--35
+Overfull \hbox (95.71384pt too wide) in paragraph at lines 15--36
 [][][] 
  []
 
@@ -1111,12 +1111,12 @@ Overfull \hbox (63.18158pt too wide) in paragraph at lines 15--35
 
 ]
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 39.
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 40.
  <Seaking_Profiler/foto.pdf, id=401, 406.51875pt x 200.75pt>
 File: Seaking_Profiler/foto.pdf Graphic file (type pdf)
 
 <use Seaking_Profiler/foto.pdf>
-Package pdftex.def Info: Seaking_Profiler/foto.pdf used on input line 42.
+Package pdftex.def Info: Seaking_Profiler/foto.pdf used on input line 43.
 (pdftex.def)             Requested size: 390.0pt x 192.59833pt.
 
 <Seaking_profiler/price_quote_0.pdf, id=402, 614.295pt x 794.97pt>
@@ -1124,14 +1124,14 @@ File: Seaking_profiler/price_quote_0.pdf Graphic file (type pdf)
 
 <use Seaking_profiler/price_quote_0.pdf>
 Package pdftex.def Info: Seaking_profiler/price_quote_0.pdf used on input line 
-49.
+50.
 (pdftex.def)             Requested size: 390.0pt x 504.71544pt.
  [7pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.52 
+l.53 
       <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Seaking_P
 rofiler/foto.pdf>]
 <Seaking_profiler/price_quote_1.pdf, id=416, 597.23125pt x 845.1575pt>
@@ -1139,14 +1139,14 @@ File: Seaking_profiler/price_quote_1.pdf Graphic file (type pdf)
 
 <use Seaking_profiler/price_quote_1.pdf>
 Package pdftex.def Info: Seaking_profiler/price_quote_1.pdf used on input line 
-56.
+57.
 (pdftex.def)             Requested size: 350.99762pt x 496.7042pt.
  [8pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.59 
+l.60 
       <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Seaking_p
 rofiler/price_quote_0.pdf>]
 <Seaking_profiler/price_quote_2.pdf, id=437, 597.23125pt x 845.1575pt>
@@ -1154,14 +1154,14 @@ File: Seaking_profiler/price_quote_2.pdf Graphic file (type pdf)
 
 <use Seaking_profiler/price_quote_2.pdf>
 Package pdftex.def Info: Seaking_profiler/price_quote_2.pdf used on input line 
-63.
+64.
 (pdftex.def)             Requested size: 390.0pt x 551.89929pt.
  [9pdfTeX warning (ext4): destination with the same identifier (name{figure.3})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.66 
+l.67 
       <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Seaking_p
 rofiler/price_quote_1.pdf>] [10]
 Overfull \vbox (46.22632pt too high) has occurred while \output is active []
@@ -1172,13 +1172,13 @@ Overfull \vbox (46.22632pt too high) has occurred while \output is active []
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.66 
+l.67 
       <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Seaking_p
 rofiler/price_quote_2.pdf>]
 File: Seaking_profiler/price_quote_0.pdf Graphic file (type pdf)
  <use Seaking_profiler/price_quote_0.pdf>
 Package pdftex.def Info: Seaking_profiler/price_quote_0.pdf used on input line 
-70.
+71.
 (pdftex.def)             Requested size: 390.0pt x 504.71544pt.
 ) [12pdfTeX warning (ext4): destination with the same identifier (name{figure.5
 }) has been already used, duplicate ignored
@@ -1189,7 +1189,7 @@ l.80 \include{02_Seaking_Profiler}
                                   ]
 (C:\Users\Renan\git\OpenLEAD\ROSA-Relatorio_Material_Permanente\03_Notebook_Del
 l.tex
-Overfull \hbox (95.71384pt too wide) in paragraph at lines 15--30
+Overfull \hbox (95.71384pt too wide) in paragraph at lines 15--31
 [][][] 
  []
 
@@ -1199,14 +1199,14 @@ Overfull \hbox (95.71384pt too wide) in paragraph at lines 15--30
 ] <Notebook/foto.jpg, id=533, 971.63pt x 1300.86pt>
 File: Notebook/foto.jpg Graphic file (type jpg)
  <use Notebook/foto.jpg>
-Package pdftex.def Info: Notebook/foto.jpg used on input line 36.
+Package pdftex.def Info: Notebook/foto.jpg used on input line 37.
 (pdftex.def)             Requested size: 390.0pt x 522.1411pt.
 
 <Notebook/nota_notebook.pdf, id=534, 845.0471pt x 597.51233pt>
 File: Notebook/nota_notebook.pdf Graphic file (type pdf)
 
 <use Notebook/nota_notebook.pdf>
-Package pdftex.def Info: Notebook/nota_notebook.pdf used on input line 42.
+Package pdftex.def Info: Notebook/nota_notebook.pdf used on input line 43.
 (pdftex.def)             Requested size: 390.0pt x 275.76161pt.
 
 
@@ -1415,105 +1415,109 @@ l.83 \include{05_Encoder}
                           <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_
 Permanente/Encoder/nota_encoder.pdf>]
 (C:\Users\Renan\git\OpenLEAD\ROSA-Relatorio_Material_Permanente\06_Pan_Til.tex
-Overfull \hbox (63.18158pt too wide) in paragraph at lines 9--30
+Overfull \hbox (95.71384pt too wide) in paragraph at lines 9--31
 [][][] 
  []
 
 [32
 
 
-] <Pan_Tilt/foto.jpg, id=674, 2810.5pt x 2330.7075pt>
+]
+
+LaTeX Warning: Text page 33 contains only floats.
+
+[33] <Pan_Tilt/foto.jpg, id=677, 2810.5pt x 2330.7075pt>
 File: Pan_Tilt/foto.jpg Graphic file (type jpg)
 
 <use Pan_Tilt/foto.jpg>
-Package pdftex.def Info: Pan_Tilt/foto.jpg used on input line 36.
+Package pdftex.def Info: Pan_Tilt/foto.jpg used on input line 37.
 (pdftex.def)             Requested size: 390.0pt x 323.41617pt.
 
-<Pan_Tilt/price_quote_0.pdf, id=675, 597.23125pt x 845.1575pt>
+<Pan_Tilt/price_quote_0.pdf, id=678, 597.23125pt x 845.1575pt>
 File: Pan_Tilt/price_quote_0.pdf Graphic file (type pdf)
 
 <use Pan_Tilt/price_quote_0.pdf>
-Package pdftex.def Info: Pan_Tilt/price_quote_0.pdf used on input line 44.
+Package pdftex.def Info: Pan_Tilt/price_quote_0.pdf used on input line 45.
 (pdftex.def)             Requested size: 390.0pt x 551.89929pt.
- [33pdfTeX warning (ext4): destination with the same identifier (name{figure.19
+ [34pdfTeX warning (ext4): destination with the same identifier (name{figure.19
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.47 
+l.48 
       <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Pan_Tilt/
-foto.jpg>] [34]
+foto.jpg>] [35]
 Overfull \vbox (46.22632pt too high) has occurred while \output is active []
 
 
-[35pdfTeX warning (ext4): destination with the same identifier (name{figure.20}
+[36pdfTeX warning (ext4): destination with the same identifier (name{figure.20}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.47 
+l.48 
       <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Pan_Tilt/
 price_quote_0.pdf>]
-<Pan_Tilt/price_quote_1.jpg, id=704, 793.96625pt x 361.35pt>
+<Pan_Tilt/price_quote_1.jpg, id=708, 793.96625pt x 361.35pt>
 File: Pan_Tilt/price_quote_1.jpg Graphic file (type jpg)
 
 <use Pan_Tilt/price_quote_1.jpg>
-Package pdftex.def Info: Pan_Tilt/price_quote_1.jpg used on input line 51.
+Package pdftex.def Info: Pan_Tilt/price_quote_1.jpg used on input line 52.
 (pdftex.def)             Requested size: 390.0pt x 177.49863pt.
 
-<Pan_Tilt/price_quote_2.pdf, id=705, 614.295pt x 794.97pt>
+<Pan_Tilt/price_quote_2.pdf, id=709, 614.295pt x 794.97pt>
 File: Pan_Tilt/price_quote_2.pdf Graphic file (type pdf)
 
 <use Pan_Tilt/price_quote_2.pdf>
-Package pdftex.def Info: Pan_Tilt/price_quote_2.pdf used on input line 58.
+Package pdftex.def Info: Pan_Tilt/price_quote_2.pdf used on input line 59.
 (pdftex.def)             Requested size: 390.0pt x 504.71544pt.
- [36pdfTeX warning (ext4): destination with the same identifier (name{figure.21
+ [37pdfTeX warning (ext4): destination with the same identifier (name{figure.21
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.61 
+l.62 
       <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Pan_Tilt/
-price_quote_1.jpg>]) [37pdfTeX warning (ext4): destination with the same identi
+price_quote_1.jpg>]) [38pdfTeX warning (ext4): destination with the same identi
 fier (name{figure.22}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.84 \include{06_Pan_Til}
                           <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_
-Permanente/Pan_Tilt/price_quote_2.pdf>] [38]
+Permanente/Pan_Tilt/price_quote_2.pdf>] [39]
 (C:\Users\Renan\git\OpenLEAD\ROSA-Relatorio_Material_Permanente\07_Tablet.tex
 Overfull \hbox (63.18158pt too wide) in paragraph at lines 9--26
 [][][] 
  []
 
-[39
+[40
 
 
-] <Tablet/foto.jpg, id=729, 1638.12pt x 1228.59pt>
+] <Tablet/foto.jpg, id=732, 1638.12pt x 1228.59pt>
 File: Tablet/foto.jpg Graphic file (type jpg)
  <use Tablet/foto.jpg>
 Package pdftex.def Info: Tablet/foto.jpg used on input line 32.
 (pdftex.def)             Requested size: 390.0pt x 292.48679pt.
 
-<Tablet/nota_tablet.pdf, id=730, 584.1825pt x 845.1575pt>
+<Tablet/nota_tablet.pdf, id=733, 584.1825pt x 845.1575pt>
 File: Tablet/nota_tablet.pdf Graphic file (type pdf)
 
 <use Tablet/nota_tablet.pdf>
 Package pdftex.def Info: Tablet/nota_tablet.pdf used on input line 39.
 (pdftex.def)             Requested size: 390.0pt x 564.24081pt.
-) [40pdfTeX warning (ext4): destination with the same identifier (name{figure.2
+) [41pdfTeX warning (ext4): destination with the same identifier (name{figure.2
 3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.85 \include{07_Tablet}
                          <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_P
-ermanente/Tablet/foto.jpg>] [41]
+ermanente/Tablet/foto.jpg>] [42]
 Overfull \vbox (56.04779pt too high) has occurred while \output is active []
 
 
-[42pdfTeX warning (ext4): destination with the same identifier (name{figure.24}
+[43pdfTeX warning (ext4): destination with the same identifier (name{figure.24}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1522,67 +1526,67 @@ l.85 \include{07_Tablet}
                          <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_P
 ermanente/Tablet/nota_tablet.pdf>]
 (C:\Users\Renan\git\OpenLEAD\ROSA-Relatorio_Material_Permanente\08_Pressao.tex
-Overfull \hbox (95.71384pt too wide) in paragraph at lines 9--31
+Overfull \hbox (95.71384pt too wide) in paragraph at lines 9--32
 [][][] 
  []
 
-[43
+[44
 
 
-] <Pressao/foto.jpg, id=750, 1300.86pt x 971.63pt>
+] <Pressao/foto.jpg, id=753, 1300.86pt x 971.63pt>
 File: Pressao/foto.jpg Graphic file (type jpg)
  <use Pressao/foto.jpg>
-Package pdftex.def Info: Pressao/foto.jpg used on input line 37.
+Package pdftex.def Info: Pressao/foto.jpg used on input line 38.
 (pdftex.def)             Requested size: 390.0pt x 291.29851pt.
 
-<Pressao/price_quote.pdf, id=751, 597.23125pt x 845.1575pt>
+<Pressao/price_quote.pdf, id=754, 597.23125pt x 845.1575pt>
 File: Pressao/price_quote.pdf Graphic file (type pdf)
 
 <use Pressao/price_quote.pdf>
-Package pdftex.def Info: Pressao/price_quote.pdf used on input line 44.
+Package pdftex.def Info: Pressao/price_quote.pdf used on input line 45.
 (pdftex.def)             Requested size: 390.0pt x 551.89929pt.
- [44pdfTeX warning (ext4): destination with the same identifier (name{figure.25
+ [45pdfTeX warning (ext4): destination with the same identifier (name{figure.25
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.47 
+l.48 
       <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Pressao/f
-oto.jpg>] [45]
+oto.jpg>] [46]
 Overfull \vbox (46.5863pt too high) has occurred while \output is active []
 
 
-[46pdfTeX warning (ext4): destination with the same identifier (name{figure.26}
+[47pdfTeX warning (ext4): destination with the same identifier (name{figure.26}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.47 
+l.48 
       <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Pressao/p
-rice_quote.pdf>] <Pressao/nota_pressao.pdf, id=765, 571.13374pt x 794.97pt>
+rice_quote.pdf>] <Pressao/nota_pressao.pdf, id=768, 571.13374pt x 794.97pt>
 File: Pressao/nota_pressao.pdf Graphic file (type pdf)
 
 <use Pressao/nota_pressao.pdf>
-Package pdftex.def Info: Pressao/nota_pressao.pdf used on input line 51.
+Package pdftex.def Info: Pressao/nota_pressao.pdf used on input line 52.
 (pdftex.def)             Requested size: 390.0pt x 542.85294pt.
- [47]
+ [48]
 Overfull \vbox (34.65991pt too high) has occurred while \output is active []
 
 
-[48pdfTeX warning (ext4): destination with the same identifier (name{figure.27}
+[49pdfTeX warning (ext4): destination with the same identifier (name{figure.27}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.54 
+l.55 
       <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Pressao/n
-ota_pressao.pdf>] <Pressao/nota_pressao2.pdf, id=778, 614.295pt x 794.97pt>
+ota_pressao.pdf>] <Pressao/nota_pressao2.pdf, id=781, 614.295pt x 794.97pt>
 File: Pressao/nota_pressao2.pdf Graphic file (type pdf)
 
 <use Pressao/nota_pressao2.pdf>
-Package pdftex.def Info: Pressao/nota_pressao2.pdf used on input line 58.
+Package pdftex.def Info: Pressao/nota_pressao2.pdf used on input line 59.
 (pdftex.def)             Requested size: 390.0pt x 504.71544pt.
-) [49pdfTeX warning (ext4): destination with the same identifier (name{figure.2
+) [50pdfTeX warning (ext4): destination with the same identifier (name{figure.2
 8}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1595,10 +1599,10 @@ Overfull \hbox (63.18158pt too wide) in paragraph at lines 7--27
 [][][] 
  []
 
-[50
+[51
 
 
-] <PC104/foto.jpg, id=801, 250.9375pt x 198.7425pt>
+] <PC104/foto.jpg, id=804, 250.9375pt x 198.7425pt>
 File: PC104/foto.jpg Graphic file (type jpg)
  <use PC104/foto.jpg>
 Package pdftex.def Info: PC104/foto.jpg used on input line 34.
@@ -1608,20 +1612,20 @@ Package pdftex.def Info: PC104/foto.jpg used on input line 34.
 pdfTeX warning: pdflatex.exe (file C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_M
 aterial_Permanente/PC104/nota_adl.pdf): PDF inclusion: found PDF version <1.7>,
  but at most version <1.5> allowed
-<PC104/nota_adl.pdf, id=802, 586.19pt x 834.11626pt>
+<PC104/nota_adl.pdf, id=805, 586.19pt x 834.11626pt>
 File: PC104/nota_adl.pdf Graphic file (type pdf)
  <use PC104/nota_adl.pdf>
 Package pdftex.def Info: PC104/nota_adl.pdf used on input line 41.
 (pdftex.def)             Requested size: 350.99762pt x 499.44269pt.
 
-[51pdfTeX warning (ext4): destination with the same identifier (name{figure.29}
+[52pdfTeX warning (ext4): destination with the same identifier (name{figure.29}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.44 
       <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/PC104/fot
-o.jpg>]) [52pdfTeX warning (ext4): destination with the same identifier (name{f
+o.jpg>]) [53pdfTeX warning (ext4): destination with the same identifier (name{f
 igure.30}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1635,41 +1639,41 @@ Overfull \hbox (63.18158pt too wide) in paragraph at lines 7--25
 [][][] 
  []
 
-[53
+[54
 
 
-] <EEA/foto1.jpg, id=814, 3276.24pt x 2457.18pt>
+] <EEA/foto1.jpg, id=818, 3276.24pt x 2457.18pt>
 File: EEA/foto1.jpg Graphic file (type jpg)
  <use EEA/foto1.jpg>
 Package pdftex.def Info: EEA/foto1.jpg used on input line 32.
 (pdftex.def)             Requested size: 390.0pt x 292.48679pt.
 
-<EEA/foto2.jpg, id=815, 3276.24pt x 2457.18pt>
+<EEA/foto2.jpg, id=819, 3276.24pt x 2457.18pt>
 File: EEA/foto2.jpg Graphic file (type jpg)
  <use EEA/foto2.jpg>
 Package pdftex.def Info: EEA/foto2.jpg used on input line 39.
 (pdftex.def)             Requested size: 390.0pt x 292.48679pt.
- [54pdfTeX warning (ext4): destination with the same identifier (name{figure.31
+ [55pdfTeX warning (ext4): destination with the same identifier (name{figure.31
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.42 
       <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/EEA/foto1
-.jpg>] <EEA/nota_gtr.pdf, id=820, 598.235pt x 845.1575pt>
+.jpg>] <EEA/nota_gtr.pdf, id=823, 598.235pt x 845.1575pt>
 File: EEA/nota_gtr.pdf Graphic file (type pdf)
 
 <use EEA/nota_gtr.pdf>
 Package pdftex.def Info: EEA/nota_gtr.pdf used on input line 46.
 (pdftex.def)             Requested size: 350.99762pt x 495.87886pt.
- [55pdfTeX warning (ext4): destination with the same identifier (name{figure.32
+ [56pdfTeX warning (ext4): destination with the same identifier (name{figure.32
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.49 
       <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/EEA/foto2
-.jpg>]) [56pdfTeX warning (ext4): destination with the same identifier (name{fi
+.jpg>]) [57pdfTeX warning (ext4): destination with the same identifier (name{fi
 gure.33}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1683,34 +1687,34 @@ Overfull \hbox (63.18158pt too wide) in paragraph at lines 9--26
 [][][] 
  []
 
-[57
+[58
 
 
-] <Inclinacao/foto.jpg, id=833, 533.995pt x 577.15625pt>
+] <Inclinacao/foto.jpg, id=836, 533.995pt x 577.15625pt>
 File: Inclinacao/foto.jpg Graphic file (type jpg)
 
 <use Inclinacao/foto.jpg>
 Package pdftex.def Info: Inclinacao/foto.jpg used on input line 32.
 (pdftex.def)             Requested size: 390.0pt x 421.54073pt.
 
-<Inclinacao/nota_ifm1.pdf, id=834, 598.235pt x 845.1575pt>
+<Inclinacao/nota_ifm1.pdf, id=837, 598.235pt x 845.1575pt>
 File: Inclinacao/nota_ifm1.pdf Graphic file (type pdf)
 
 <use Inclinacao/nota_ifm1.pdf>
 Package pdftex.def Info: Inclinacao/nota_ifm1.pdf used on input line 39.
 (pdftex.def)             Requested size: 390.0pt x 550.98367pt.
- [58pdfTeX warning (ext4): destination with the same identifier (name{figure.34
+ [59pdfTeX warning (ext4): destination with the same identifier (name{figure.34
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.42 
       <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Inclinaca
-o/foto.jpg>] [59]
+o/foto.jpg>] [60]
 Overfull \vbox (42.79065pt too high) has occurred while \output is active []
 
 
-[60pdfTeX warning (ext4): destination with the same identifier (name{figure.35}
+[61pdfTeX warning (ext4): destination with the same identifier (name{figure.35}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1722,13 +1726,13 @@ o/nota_ifm1.pdf>]
 pdfTeX warning: pdflatex.exe (file C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_M
 aterial_Permanente/Inclinacao/nota_ifm2.pdf): PDF inclusion: found PDF version 
 <1.7>, but at most version <1.5> allowed
-<Inclinacao/nota_ifm2.pdf, id=847, 845.0471pt x 597.51233pt>
+<Inclinacao/nota_ifm2.pdf, id=850, 845.0471pt x 597.51233pt>
 File: Inclinacao/nota_ifm2.pdf Graphic file (type pdf)
 
 <use Inclinacao/nota_ifm2.pdf>
 Package pdftex.def Info: Inclinacao/nota_ifm2.pdf used on input line 46.
 (pdftex.def)             Requested size: 390.0pt x 275.76161pt.
-) [61pdfTeX warning (ext4): destination with the same identifier (name{figure.3
+) [62pdfTeX warning (ext4): destination with the same identifier (name{figure.3
 6}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1741,10 +1745,10 @@ Overfull \hbox (63.18158pt too wide) in paragraph at lines 9--28
 [][][] 
  []
 
-[62
+[63
 
 
-] <Wandercase/foto.jpg, id=860, 301.125pt x 241.90375pt>
+] <Wandercase/foto.jpg, id=863, 301.125pt x 241.90375pt>
 File: Wandercase/foto.jpg Graphic file (type jpg)
 
 <use Wandercase/foto.jpg>
@@ -1755,24 +1759,24 @@ Package pdftex.def Info: Wandercase/foto.jpg used on input line 34.
 pdfTeX warning: pdflatex.exe (file C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_M
 aterial_Permanente/Wandercase/nota_wander.pdf): PDF inclusion: found PDF versio
 n <1.6>, but at most version <1.5> allowed
-<Wandercase/nota_wander.pdf, id=861, 597.50829pt x 845.0471pt>
+<Wandercase/nota_wander.pdf, id=864, 597.50829pt x 845.0471pt>
 File: Wandercase/nota_wander.pdf Graphic file (type pdf)
 
 <use Wandercase/nota_wander.pdf>
 Package pdftex.def Info: Wandercase/nota_wander.pdf used on input line 41.
 (pdftex.def)             Requested size: 390.0pt x 551.5693pt.
-) [63pdfTeX warning (ext4): destination with the same identifier (name{figure.3
+) [64pdfTeX warning (ext4): destination with the same identifier (name{figure.3
 7}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.90 \include{12_wander}
                          <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_P
-ermanente/Wandercase/foto.jpg>] [64]
+ermanente/Wandercase/foto.jpg>] [65]
 Overfull \vbox (43.37628pt too high) has occurred while \output is active []
 
 
-[65pdfTeX warning (ext4): destination with the same identifier (name{figure.38}
+[66pdfTeX warning (ext4): destination with the same identifier (name{figure.38}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1781,7 +1785,7 @@ l.90 \include{12_wander}
                          <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_P
 ermanente/Wandercase/nota_wander.pdf>]
 (C:\Users\Renan\git\OpenLEAD\ROSA-Relatorio_Material_Permanente\anexo.tex
-<Seaking_profiler/data_sheet.pdf, id=890, 597.50731pt x 845.04607pt>
+<Seaking_profiler/data_sheet.pdf, id=894, 597.50731pt x 845.04607pt>
 File: Seaking_profiler/data_sheet.pdf Graphic file (type pdf)
 
 <use Seaking_profiler/data_sheet.pdf>
@@ -1792,11 +1796,11 @@ File: Seaking_profiler/data_sheet.pdf Graphic file (type pdf)
 Package pdftex.def Info: Seaking_profiler/data_sheet.pdf used on input line 5.
 (pdftex.def)             Requested size: 597.50584pt x 845.044pt.
 
-[66
+[67
 
 
 ]
-<Seaking_profiler/data_sheet.pdf, id=897, page=1, 597.50731pt x 845.04607pt>
+<Seaking_profiler/data_sheet.pdf, id=900, page=1, 597.50731pt x 845.04607pt>
 File: Seaking_profiler/data_sheet.pdf Graphic file (type pdf)
 
 <use Seaking_profiler/data_sheet.pdf, page 1>
@@ -1827,35 +1831,35 @@ File: Seaking_profiler/data_sheet.pdf Graphic file (type pdf)
 Package pdftex.def Info: Seaking_profiler/data_sheet.pdf, page1 used on input l
 ine 5.
 (pdftex.def)             Requested size: 597.53319pt x 845.08269pt.
- [67 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Seaking_pr
-ofiler/data_sheet.pdf>]
-<Seaking_profiler/data_sheet.pdf, id=933, page=2, 597.50731pt x 845.04607pt>
-File: Seaking_profiler/data_sheet.pdf Graphic file (type pdf)
-
-<use Seaking_profiler/data_sheet.pdf, page 2>
-Package pdftex.def Info: Seaking_profiler/data_sheet.pdf, page2 used on input l
-ine 5.
-(pdftex.def)             Requested size: 597.53319pt x 845.08269pt.
-File: Seaking_profiler/data_sheet.pdf Graphic file (type pdf)
-
-<use Seaking_profiler/data_sheet.pdf, page 2>
-Package pdftex.def Info: Seaking_profiler/data_sheet.pdf, page2 used on input l
-ine 5.
-(pdftex.def)             Requested size: 597.53319pt x 845.08269pt.
-File: Seaking_profiler/data_sheet.pdf Graphic file (type pdf)
-
-<use Seaking_profiler/data_sheet.pdf, page 2>
-Package pdftex.def Info: Seaking_profiler/data_sheet.pdf, page2 used on input l
-ine 5.
-(pdftex.def)             Requested size: 597.53319pt x 845.08269pt.
  [68 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Seaking_pr
+ofiler/data_sheet.pdf>]
+<Seaking_profiler/data_sheet.pdf, id=936, page=2, 597.50731pt x 845.04607pt>
+File: Seaking_profiler/data_sheet.pdf Graphic file (type pdf)
+
+<use Seaking_profiler/data_sheet.pdf, page 2>
+Package pdftex.def Info: Seaking_profiler/data_sheet.pdf, page2 used on input l
+ine 5.
+(pdftex.def)             Requested size: 597.53319pt x 845.08269pt.
+File: Seaking_profiler/data_sheet.pdf Graphic file (type pdf)
+
+<use Seaking_profiler/data_sheet.pdf, page 2>
+Package pdftex.def Info: Seaking_profiler/data_sheet.pdf, page2 used on input l
+ine 5.
+(pdftex.def)             Requested size: 597.53319pt x 845.08269pt.
+File: Seaking_profiler/data_sheet.pdf Graphic file (type pdf)
+
+<use Seaking_profiler/data_sheet.pdf, page 2>
+Package pdftex.def Info: Seaking_profiler/data_sheet.pdf, page2 used on input l
+ine 5.
+(pdftex.def)             Requested size: 597.53319pt x 845.08269pt.
+ [69 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Seaking_pr
 ofiler/data_sheet.pdf>]pdfTeX warning (ext4): destination with the same identif
 ier (name{appendix.A}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.11 \section{Anexo II - Sensor Indutivo}
                                          
-<Indutivo/datasheet.pdf, id=937, 597.23125pt x 845.1575pt>
+<Indutivo/datasheet.pdf, id=940, 597.23125pt x 845.1575pt>
 File: Indutivo/datasheet.pdf Graphic file (type pdf)
 
 <use Indutivo/datasheet.pdf>
@@ -1865,8 +1869,8 @@ File: Indutivo/datasheet.pdf Graphic file (type pdf)
  <use Indutivo/datasheet.pdf>
 Package pdftex.def Info: Indutivo/datasheet.pdf used on input line 13.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
- [69]
-<Indutivo/datasheet.pdf, id=943, page=1, 597.23125pt x 845.1575pt>
+ [70]
+<Indutivo/datasheet.pdf, id=946, page=1, 597.23125pt x 845.1575pt>
 File: Indutivo/datasheet.pdf Graphic file (type pdf)
 
 <use Indutivo/datasheet.pdf, page 1>
@@ -1890,9 +1894,9 @@ File: Indutivo/datasheet.pdf Graphic file (type pdf)
 <use Indutivo/datasheet.pdf, page 1>
 Package pdftex.def Info: Indutivo/datasheet.pdf, page1 used on input line 13.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [70 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Indutivo/d
+ [71 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Indutivo/d
 atasheet.pdf>]
-<Indutivo/datasheet.pdf, id=987, page=2, 597.23125pt x 845.1575pt>
+<Indutivo/datasheet.pdf, id=990, page=2, 597.23125pt x 845.1575pt>
 File: Indutivo/datasheet.pdf Graphic file (type pdf)
 
 <use Indutivo/datasheet.pdf, page 2>
@@ -1907,14 +1911,14 @@ File: Indutivo/datasheet.pdf Graphic file (type pdf)
 <use Indutivo/datasheet.pdf, page 2>
 Package pdftex.def Info: Indutivo/datasheet.pdf, page2 used on input line 13.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [71 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Indutivo/d
+ [72 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Indutivo/d
 atasheet.pdf>]pdfTeX warning (ext4): destination with the same identifier (name
 {appendix.A}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.19 \section{Anexo III - Encoder}
                                   
-<Encoder/datasheet.pdf, id=1004, 597.23125pt x 845.1575pt>
+<Encoder/datasheet.pdf, id=1008, 597.23125pt x 845.1575pt>
 File: Encoder/datasheet.pdf Graphic file (type pdf)
 
 <use Encoder/datasheet.pdf>
@@ -1924,8 +1928,8 @@ File: Encoder/datasheet.pdf Graphic file (type pdf)
  <use Encoder/datasheet.pdf>
 Package pdftex.def Info: Encoder/datasheet.pdf used on input line 21.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
- [72]
-<Encoder/datasheet.pdf, id=1011, page=1, 597.23125pt x 845.1575pt>
+ [73]
+<Encoder/datasheet.pdf, id=1014, page=1, 597.23125pt x 845.1575pt>
 File: Encoder/datasheet.pdf Graphic file (type pdf)
 
 <use Encoder/datasheet.pdf, page 1>
@@ -1949,9 +1953,9 @@ File: Encoder/datasheet.pdf Graphic file (type pdf)
 <use Encoder/datasheet.pdf, page 1>
 Package pdftex.def Info: Encoder/datasheet.pdf, page1 used on input line 21.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [73 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Encoder/da
+ [74 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Encoder/da
 tasheet.pdf>]
-<Encoder/datasheet.pdf, id=1053, page=2, 597.23125pt x 845.1575pt>
+<Encoder/datasheet.pdf, id=1056, page=2, 597.23125pt x 845.1575pt>
 File: Encoder/datasheet.pdf Graphic file (type pdf)
 
 <use Encoder/datasheet.pdf, page 2>
@@ -1966,9 +1970,9 @@ File: Encoder/datasheet.pdf Graphic file (type pdf)
 <use Encoder/datasheet.pdf, page 2>
 Package pdftex.def Info: Encoder/datasheet.pdf, page2 used on input line 21.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [74 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Encoder/da
+ [75 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Encoder/da
 tasheet.pdf>]
-<Encoder/datasheet.pdf, id=1068, page=3, 597.23125pt x 845.1575pt>
+<Encoder/datasheet.pdf, id=1071, page=3, 597.23125pt x 845.1575pt>
 File: Encoder/datasheet.pdf Graphic file (type pdf)
 
 <use Encoder/datasheet.pdf, page 3>
@@ -1983,9 +1987,9 @@ File: Encoder/datasheet.pdf Graphic file (type pdf)
 <use Encoder/datasheet.pdf, page 3>
 Package pdftex.def Info: Encoder/datasheet.pdf, page3 used on input line 21.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [75 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Encoder/da
+ [76 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Encoder/da
 tasheet.pdf>]
-<Encoder/datasheet.pdf, id=1084, page=4, 597.23125pt x 845.1575pt>
+<Encoder/datasheet.pdf, id=1087, page=4, 597.23125pt x 845.1575pt>
 File: Encoder/datasheet.pdf Graphic file (type pdf)
 
 <use Encoder/datasheet.pdf, page 4>
@@ -2000,9 +2004,9 @@ File: Encoder/datasheet.pdf Graphic file (type pdf)
 <use Encoder/datasheet.pdf, page 4>
 Package pdftex.def Info: Encoder/datasheet.pdf, page4 used on input line 21.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [76 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Encoder/da
+ [77 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Encoder/da
 tasheet.pdf>]
-<Encoder/datasheet.pdf, id=1096, page=5, 597.23125pt x 845.1575pt>
+<Encoder/datasheet.pdf, id=1099, page=5, 597.23125pt x 845.1575pt>
 File: Encoder/datasheet.pdf Graphic file (type pdf)
 
 <use Encoder/datasheet.pdf, page 5>
@@ -2017,14 +2021,14 @@ File: Encoder/datasheet.pdf Graphic file (type pdf)
 <use Encoder/datasheet.pdf, page 5>
 Package pdftex.def Info: Encoder/datasheet.pdf, page5 used on input line 21.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [77 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Encoder/da
+ [78 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Encoder/da
 tasheet.pdf>]pdfTeX warning (ext4): destination with the same identifier (name{
 appendix.A}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.26 \section{Anexo IV - Pan e Tilt}
                                     
-<Pan_Tilt/datasheet.pdf, id=1102, 597.45204pt x 845.1575pt>
+<Pan_Tilt/datasheet.pdf, id=1106, 597.45204pt x 845.1575pt>
 File: Pan_Tilt/datasheet.pdf Graphic file (type pdf)
 
 <use Pan_Tilt/datasheet.pdf>
@@ -2034,8 +2038,8 @@ File: Pan_Tilt/datasheet.pdf Graphic file (type pdf)
  <use Pan_Tilt/datasheet.pdf>
 Package pdftex.def Info: Pan_Tilt/datasheet.pdf used on input line 28.
 (pdftex.def)             Requested size: 597.45058pt x 845.15544pt.
- [78]
-<Pan_Tilt/datasheet.pdf, id=1109, page=1, 597.45204pt x 845.1575pt>
+ [79]
+<Pan_Tilt/datasheet.pdf, id=1112, page=1, 597.45204pt x 845.1575pt>
 File: Pan_Tilt/datasheet.pdf Graphic file (type pdf)
 
 <use Pan_Tilt/datasheet.pdf, page 1>
@@ -2059,9 +2063,9 @@ File: Pan_Tilt/datasheet.pdf Graphic file (type pdf)
 <use Pan_Tilt/datasheet.pdf, page 1>
 Package pdftex.def Info: Pan_Tilt/datasheet.pdf, page1 used on input line 28.
 (pdftex.def)             Requested size: 597.47792pt x 845.19412pt.
- [79 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Pan_Tilt/d
+ [80 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Pan_Tilt/d
 atasheet.pdf>]
-<Pan_Tilt/SS109.pdf, id=1148, 597.55246pt x 845.07718pt>
+<Pan_Tilt/SS109.pdf, id=1151, 597.55246pt x 845.07718pt>
 File: Pan_Tilt/SS109.pdf Graphic file (type pdf)
 
 <use Pan_Tilt/SS109.pdf>
@@ -2072,7 +2076,7 @@ File: Pan_Tilt/SS109.pdf Graphic file (type pdf)
 Package pdftex.def Info: Pan_Tilt/SS109.pdf used on input line 29.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
-<Pan_Tilt/SS109.pdf, id=1151, page=1, 597.55246pt x 845.07718pt>
+<Pan_Tilt/SS109.pdf, id=1154, page=1, 597.55246pt x 845.07718pt>
 File: Pan_Tilt/SS109.pdf Graphic file (type pdf)
 
 <use Pan_Tilt/SS109.pdf, page 1>
@@ -2096,9 +2100,9 @@ File: Pan_Tilt/SS109.pdf Graphic file (type pdf)
 <use Pan_Tilt/SS109.pdf, page 1>
 Package pdftex.def Info: Pan_Tilt/SS109.pdf, page1 used on input line 29.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
- [80 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Pan_Tilt/S
+ [81 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Pan_Tilt/S
 S109.pdf>]
-<Pan_Tilt/SS109.pdf, id=1189, page=2, 597.55246pt x 845.07718pt>
+<Pan_Tilt/SS109.pdf, id=1192, page=2, 597.55246pt x 845.07718pt>
 File: Pan_Tilt/SS109.pdf Graphic file (type pdf)
 
 <use Pan_Tilt/SS109.pdf, page 2>
@@ -2113,13 +2117,13 @@ File: Pan_Tilt/SS109.pdf Graphic file (type pdf)
 <use Pan_Tilt/SS109.pdf, page 2>
 Package pdftex.def Info: Pan_Tilt/SS109.pdf, page2 used on input line 29.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
- [81 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Pan_Tilt/S
+ [82 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Pan_Tilt/S
 S109.pdf>]
 
 pdfTeX warning: pdflatex.exe (file C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_M
 aterial_Permanente/Pan_Tilt/pt-10-fb-rs485.pdf): PDF inclusion: found PDF versi
 on <1.6>, but at most version <1.5> allowed
-<Pan_Tilt/pt-10-fb-rs485.pdf, id=1193, 614.295pt x 794.97pt>
+<Pan_Tilt/pt-10-fb-rs485.pdf, id=1196, 614.295pt x 794.97pt>
 File: Pan_Tilt/pt-10-fb-rs485.pdf Graphic file (type pdf)
 
 <use Pan_Tilt/pt-10-fb-rs485.pdf>
@@ -2144,7 +2148,7 @@ on <1.6>, but at most version <1.5> allowed
 pdfTeX warning: pdflatex.exe (file C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_M
 aterial_Permanente/Pan_Tilt/pt-10-fb-rs485.pdf): PDF inclusion: found PDF versi
 on <1.6>, but at most version <1.5> allowed
-<Pan_Tilt/pt-10-fb-rs485.pdf, id=1196, page=1, 614.295pt x 794.97pt>
+<Pan_Tilt/pt-10-fb-rs485.pdf, id=1199, page=1, 614.295pt x 794.97pt>
 File: Pan_Tilt/pt-10-fb-rs485.pdf Graphic file (type pdf)
 
 <use Pan_Tilt/pt-10-fb-rs485.pdf, page 1>
@@ -2175,13 +2179,13 @@ File: Pan_Tilt/pt-10-fb-rs485.pdf Graphic file (type pdf)
 Package pdftex.def Info: Pan_Tilt/pt-10-fb-rs485.pdf, page1 used on input line 
 30.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
- [82 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Pan_Tilt/p
+ [83 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Pan_Tilt/p
 t-10-fb-rs485.pdf>]
 
 pdfTeX warning: pdflatex.exe (file C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_M
 aterial_Permanente/Pan_Tilt/pt-10-fb-rs485.pdf): PDF inclusion: found PDF versi
 on <1.6>, but at most version <1.5> allowed
-<Pan_Tilt/pt-10-fb-rs485.pdf, id=1225, page=2, 614.295pt x 794.97pt>
+<Pan_Tilt/pt-10-fb-rs485.pdf, id=1228, page=2, 614.295pt x 794.97pt>
 File: Pan_Tilt/pt-10-fb-rs485.pdf Graphic file (type pdf)
 
 <use Pan_Tilt/pt-10-fb-rs485.pdf, page 2>
@@ -2200,14 +2204,14 @@ File: Pan_Tilt/pt-10-fb-rs485.pdf Graphic file (type pdf)
 Package pdftex.def Info: Pan_Tilt/pt-10-fb-rs485.pdf, page2 used on input line 
 30.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
- [83 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Pan_Tilt/p
+ [84 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Pan_Tilt/p
 t-10-fb-rs485.pdf>]pdfTeX warning (ext4): destination with the same identifier 
 (name{appendix.A}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.34 \section{Anexo V - Sensor de Pressão}
                                            
-<Pressao/datasheet.pdf, id=1242, 625.96562pt x 873.4994pt>
+<Pressao/datasheet.pdf, id=1246, 625.96562pt x 873.4994pt>
 File: Pressao/datasheet.pdf Graphic file (type pdf)
 
 <use Pressao/datasheet.pdf>
@@ -2217,8 +2221,8 @@ File: Pressao/datasheet.pdf Graphic file (type pdf)
  <use Pressao/datasheet.pdf>
 Package pdftex.def Info: Pressao/datasheet.pdf used on input line 36.
 (pdftex.def)             Requested size: 625.9641pt x 873.49727pt.
- [84]
-<Pressao/datasheet.pdf, id=1249, page=1, 625.96562pt x 873.4994pt>
+ [85]
+<Pressao/datasheet.pdf, id=1252, page=1, 625.96562pt x 873.4994pt>
 File: Pressao/datasheet.pdf Graphic file (type pdf)
 
 <use Pressao/datasheet.pdf, page 1>
@@ -2242,9 +2246,9 @@ File: Pressao/datasheet.pdf Graphic file (type pdf)
 <use Pressao/datasheet.pdf, page 1>
 Package pdftex.def Info: Pressao/datasheet.pdf, page1 used on input line 36.
 (pdftex.def)             Requested size: 598.42725pt x 835.07117pt.
- [85 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Pressao/da
+ [86 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Pressao/da
 tasheet.pdf>]
-<Pressao/datasheet.pdf, id=1387, page=2, 625.96562pt x 873.4994pt>
+<Pressao/datasheet.pdf, id=1390, page=2, 625.96562pt x 873.4994pt>
 File: Pressao/datasheet.pdf Graphic file (type pdf)
 
 <use Pressao/datasheet.pdf, page 2>
@@ -2259,9 +2263,9 @@ File: Pressao/datasheet.pdf Graphic file (type pdf)
 <use Pressao/datasheet.pdf, page 2>
 Package pdftex.def Info: Pressao/datasheet.pdf, page2 used on input line 36.
 (pdftex.def)             Requested size: 598.42725pt x 835.07117pt.
- [86 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Pressao/da
+ [87 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Pressao/da
 tasheet.pdf>]
-<Pressao/datasheet.pdf, id=1401, page=3, 625.96562pt x 873.4994pt>
+<Pressao/datasheet.pdf, id=1404, page=3, 625.96562pt x 873.4994pt>
 File: Pressao/datasheet.pdf Graphic file (type pdf)
 
 <use Pressao/datasheet.pdf, page 3>
@@ -2276,14 +2280,14 @@ File: Pressao/datasheet.pdf Graphic file (type pdf)
 <use Pressao/datasheet.pdf, page 3>
 Package pdftex.def Info: Pressao/datasheet.pdf, page3 used on input line 36.
 (pdftex.def)             Requested size: 598.42725pt x 835.07117pt.
- [87 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Pressao/da
+ [88 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Pressao/da
 tasheet.pdf>]pdfTeX warning (ext4): destination with the same identifier (name{
 appendix.A}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.40 \section{Anexo VI - PC104}
                                
-<PC104/datasheet.pdf, id=1409, 614.295pt x 794.97pt>
+<PC104/datasheet.pdf, id=1412, 614.295pt x 794.97pt>
 File: PC104/datasheet.pdf Graphic file (type pdf)
  <use PC104/datasheet.pdf>
 Package pdftex.def Info: PC104/datasheet.pdf used on input line 42.
@@ -2293,8 +2297,8 @@ File: PC104/datasheet.pdf Graphic file (type pdf)
 <use PC104/datasheet.pdf>
 Package pdftex.def Info: PC104/datasheet.pdf used on input line 42.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
- [88]
-<PC104/datasheet.pdf, id=1415, page=1, 614.295pt x 794.97pt>
+ [89]
+<PC104/datasheet.pdf, id=1418, page=1, 614.295pt x 794.97pt>
 File: PC104/datasheet.pdf Graphic file (type pdf)
 
 <use PC104/datasheet.pdf, page 1>
@@ -2318,9 +2322,9 @@ File: PC104/datasheet.pdf Graphic file (type pdf)
 <use PC104/datasheet.pdf, page 1>
 Package pdftex.def Info: PC104/datasheet.pdf, page1 used on input line 42.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
- [89 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/PC104/data
+ [90 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/PC104/data
 sheet.pdf>]
-<PC104/datasheet.pdf, id=1461, page=2, 614.295pt x 794.97pt>
+<PC104/datasheet.pdf, id=1465, page=2, 614.295pt x 794.97pt>
 File: PC104/datasheet.pdf Graphic file (type pdf)
 
 <use PC104/datasheet.pdf, page 2>
@@ -2335,9 +2339,9 @@ File: PC104/datasheet.pdf Graphic file (type pdf)
 <use PC104/datasheet.pdf, page 2>
 Package pdftex.def Info: PC104/datasheet.pdf, page2 used on input line 42.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
- [90 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/PC104/data
+ [91 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/PC104/data
 sheet.pdf>]
-<PC104/datasheet.pdf, id=1470, page=3, 614.295pt x 794.97pt>
+<PC104/datasheet.pdf, id=1473, page=3, 614.295pt x 794.97pt>
 File: PC104/datasheet.pdf Graphic file (type pdf)
 
 <use PC104/datasheet.pdf, page 3>
@@ -2352,7 +2356,7 @@ File: PC104/datasheet.pdf Graphic file (type pdf)
 <use PC104/datasheet.pdf, page 3>
 Package pdftex.def Info: PC104/datasheet.pdf, page3 used on input line 42.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
- [91 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/PC104/data
+ [92 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/PC104/data
 sheet.pdf>]pdfTeX warning (ext4): destination with the same identifier (name{ap
 pendix.A}) has been already used, duplicate ignored
 <to be read again> 
@@ -2363,7 +2367,7 @@ l.46 \section{Anexo VII - Sensor de Inclinação}
 pdfTeX warning: pdflatex.exe (file C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_M
 aterial_Permanente/Inclinacao/datasheet_inclinacao.pdf): PDF inclusion: found P
 DF version <1.6>, but at most version <1.5> allowed
-<Inclinacao/datasheet_inclinacao.pdf, id=1478, 595.55696pt x 845.04686pt>
+<Inclinacao/datasheet_inclinacao.pdf, id=1481, 595.55696pt x 845.04686pt>
 File: Inclinacao/datasheet_inclinacao.pdf Graphic file (type pdf)
 
 <use Inclinacao/datasheet_inclinacao.pdf>
@@ -2385,13 +2389,13 @@ Package pdftex.def Info: Inclinacao/datasheet_inclinacao.pdf used on input line
 pdfTeX warning: pdflatex.exe (file C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_M
 aterial_Permanente/Inclinacao/datasheet_inclinacao.pdf): PDF inclusion: found P
 DF version <1.6>, but at most version <1.5> allowed
-[92]
+[93]
 
 pdfTeX warning: pdflatex.exe (file C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_M
 aterial_Permanente/Inclinacao/datasheet_inclinacao.pdf): PDF inclusion: found P
 DF version <1.6>, but at most version <1.5> allowed
 
-<Inclinacao/datasheet_inclinacao.pdf, id=1484, page=1, 595.55696pt x 845.04686p
+<Inclinacao/datasheet_inclinacao.pdf, id=1487, page=1, 595.55696pt x 845.04686p
 t>
 File: Inclinacao/datasheet_inclinacao.pdf Graphic file (type pdf)
  <use Inclinacao/datasheet_inclinacao.pdf, page 1>
@@ -2422,14 +2426,14 @@ File: Inclinacao/datasheet_inclinacao.pdf Graphic file (type pdf)
 Package pdftex.def Info: Inclinacao/datasheet_inclinacao.pdf, page1 used on inp
 ut line 48.
 (pdftex.def)             Requested size: 595.58275pt x 845.08348pt.
- [93 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Inclinacao
+ [94 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Inclinacao
 /datasheet_inclinacao.pdf>]
 
 pdfTeX warning: pdflatex.exe (file C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_M
 aterial_Permanente/Inclinacao/datasheet_inclinacao.pdf): PDF inclusion: found P
 DF version <1.6>, but at most version <1.5> allowed
 
-<Inclinacao/datasheet_inclinacao.pdf, id=1501, page=2, 595.55696pt x 845.04686p
+<Inclinacao/datasheet_inclinacao.pdf, id=1504, page=2, 595.55696pt x 845.04686p
 t>
 File: Inclinacao/datasheet_inclinacao.pdf Graphic file (type pdf)
  <use Inclinacao/datasheet_inclinacao.pdf, page 2>
@@ -2448,14 +2452,14 @@ File: Inclinacao/datasheet_inclinacao.pdf Graphic file (type pdf)
 Package pdftex.def Info: Inclinacao/datasheet_inclinacao.pdf, page2 used on inp
 ut line 48.
 (pdftex.def)             Requested size: 595.58275pt x 845.08348pt.
- [94 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Inclinacao
+ [95 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Inclinacao
 /datasheet_inclinacao.pdf>]
 
 pdfTeX warning: pdflatex.exe (file C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_M
 aterial_Permanente/Inclinacao/datasheet_inclinacao.pdf): PDF inclusion: found P
 DF version <1.6>, but at most version <1.5> allowed
 
-<Inclinacao/datasheet_inclinacao.pdf, id=1511, page=3, 595.55696pt x 845.04686p
+<Inclinacao/datasheet_inclinacao.pdf, id=1514, page=3, 595.55696pt x 845.04686p
 t>
 File: Inclinacao/datasheet_inclinacao.pdf Graphic file (type pdf)
  <use Inclinacao/datasheet_inclinacao.pdf, page 3>
@@ -2474,14 +2478,14 @@ File: Inclinacao/datasheet_inclinacao.pdf Graphic file (type pdf)
 Package pdftex.def Info: Inclinacao/datasheet_inclinacao.pdf, page3 used on inp
 ut line 48.
 (pdftex.def)             Requested size: 595.58275pt x 845.08348pt.
- [95 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Inclinacao
+ [96 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Inclinacao
 /datasheet_inclinacao.pdf>]
 
 pdfTeX warning: pdflatex.exe (file C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_M
 aterial_Permanente/Inclinacao/datasheet_inclinacao.pdf): PDF inclusion: found P
 DF version <1.6>, but at most version <1.5> allowed
 
-<Inclinacao/datasheet_inclinacao.pdf, id=1517, page=4, 595.55696pt x 845.04686p
+<Inclinacao/datasheet_inclinacao.pdf, id=1521, page=4, 595.55696pt x 845.04686p
 t>
 File: Inclinacao/datasheet_inclinacao.pdf Graphic file (type pdf)
  <use Inclinacao/datasheet_inclinacao.pdf, page 4>
@@ -2500,14 +2504,14 @@ File: Inclinacao/datasheet_inclinacao.pdf Graphic file (type pdf)
 Package pdftex.def Info: Inclinacao/datasheet_inclinacao.pdf, page4 used on inp
 ut line 48.
 (pdftex.def)             Requested size: 595.58275pt x 845.08348pt.
- [96 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Inclinacao
+ [97 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Inclinacao
 /datasheet_inclinacao.pdf>]
 
 pdfTeX warning: pdflatex.exe (file C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_M
 aterial_Permanente/Inclinacao/datasheet_inclinacao.pdf): PDF inclusion: found P
 DF version <1.6>, but at most version <1.5> allowed
 
-<Inclinacao/datasheet_inclinacao.pdf, id=1529, page=5, 595.55696pt x 845.04686p
+<Inclinacao/datasheet_inclinacao.pdf, id=1532, page=5, 595.55696pt x 845.04686p
 t>
 File: Inclinacao/datasheet_inclinacao.pdf Graphic file (type pdf)
  <use Inclinacao/datasheet_inclinacao.pdf, page 5>
@@ -2526,14 +2530,14 @@ File: Inclinacao/datasheet_inclinacao.pdf Graphic file (type pdf)
 Package pdftex.def Info: Inclinacao/datasheet_inclinacao.pdf, page5 used on inp
 ut line 48.
 (pdftex.def)             Requested size: 595.58275pt x 845.08348pt.
- [97 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Inclinacao
+ [98 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Inclinacao
 /datasheet_inclinacao.pdf>]
 
 pdfTeX warning: pdflatex.exe (file C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_M
 aterial_Permanente/Inclinacao/datasheet_inclinacao.pdf): PDF inclusion: found P
 DF version <1.6>, but at most version <1.5> allowed
 
-<Inclinacao/datasheet_inclinacao.pdf, id=1548, page=6, 595.55696pt x 845.04686p
+<Inclinacao/datasheet_inclinacao.pdf, id=1551, page=6, 595.55696pt x 845.04686p
 t>
 File: Inclinacao/datasheet_inclinacao.pdf Graphic file (type pdf)
  <use Inclinacao/datasheet_inclinacao.pdf, page 6>
@@ -2552,7 +2556,7 @@ File: Inclinacao/datasheet_inclinacao.pdf Graphic file (type pdf)
 Package pdftex.def Info: Inclinacao/datasheet_inclinacao.pdf, page6 used on inp
 ut line 48.
 (pdftex.def)             Requested size: 595.58275pt x 845.08348pt.
- [98 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Inclinacao
+ [99 <C:/Users/Renan/git/OpenLEAD/ROSA-Relatorio_Material_Permanente/Inclinacao
 /datasheet_inclinacao.pdf>])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 115.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
@@ -2592,7 +2596,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
 Here is how much of TeX's memory you used:
  11199 strings out of 493921
  171175 string characters out of 3144876
- 260657 words of memory out of 3000000
+ 260658 words of memory out of 3000000
  14035 multiletter control sequences out of 15000+200000
  17784 words of font info for 52 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -2601,9 +2605,9 @@ Here is how much of TeX's memory you used:
 m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program 
 Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x
 86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on master.pdf (99 pages, 16807810 bytes).
+Output written on master.pdf (100 pages, 16808511 bytes).
 PDF statistics:
- 1591 PDF objects out of 1728 (max. 8388607)
+ 1594 PDF objects out of 1728 (max. 8388607)
  91 named destinations out of 1000 (max. 500000)
  918 words of extra memory for PDF output out of 10000 (max. 10000000)
 
