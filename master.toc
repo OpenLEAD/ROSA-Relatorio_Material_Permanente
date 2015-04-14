@@ -48,10 +48,13 @@
 \contentsline {section}{\numberline {12}Wandercase}{63}{section.12}
 \contentsline {subsection}{\numberline {12.1}Foto do Material}{64}{subsection.12.1}
 \contentsline {subsection}{\numberline {12.2}Nota Fiscal}{66}{subsection.12.2}
-\contentsline {section}{\numberline {A}Anexo I - Seaking Profiler}{67}{appendix.A}
-\contentsline {section}{\numberline {A}Anexo II - Sensor Indutivo}{70}{appendix.A}
-\contentsline {section}{\numberline {A}Anexo III - Encoder}{73}{appendix.A}
-\contentsline {section}{\numberline {A}Anexo IV - Pan e Tilt}{79}{appendix.A}
-\contentsline {section}{\numberline {A}Anexo V - Sensor de Press\IeC {\~a}o}{85}{appendix.A}
-\contentsline {section}{\numberline {A}Anexo VI - PC104}{89}{appendix.A}
-\contentsline {section}{\numberline {A}Anexo VII - Sensor de Inclina\IeC {\c c}\IeC {\~a}o}{93}{appendix.A}
+\contentsline {section}{\numberline {13}Case da Eletr\IeC {\^o}nica Embarcada}{67}{section.13}
+\contentsline {subsection}{\numberline {13.1}Foto do Material}{68}{subsection.13.1}
+\contentsline {subsection}{\numberline {13.2}Nota Fiscal}{68}{subsection.13.2}
+\contentsline {section}{\numberline {A}Anexo I - Seaking Profiler}{70}{appendix.A}
+\contentsline {section}{\numberline {A}Anexo II - Sensor Indutivo}{73}{appendix.A}
+\contentsline {section}{\numberline {A}Anexo III - Encoder}{76}{appendix.A}
+\contentsline {section}{\numberline {A}Anexo IV - Pan e Tilt}{82}{appendix.A}
+\contentsline {section}{\numberline {A}Anexo V - Sensor de Press\IeC {\~a}o}{88}{appendix.A}
+\contentsline {section}{\numberline {A}Anexo VI - PC104}{92}{appendix.A}
+\contentsline {section}{\numberline {A}Anexo VII - Sensor de Inclina\IeC {\c c}\IeC {\~a}o}{96}{appendix.A}
